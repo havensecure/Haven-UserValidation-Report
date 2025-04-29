@@ -216,7 +216,7 @@ st.markdown("""
 st.write("---")
 
 
-# === CONCLUSION ===
+# === CONCLUSION & NEXT STEPS ===
 st.subheader("📢 Conclusion & Investment Opportunity")
 st.markdown("""
 - **Unmet Need:** Privacy-first personal cybersecurity  
@@ -224,9 +224,45 @@ st.markdown("""
 - **Monetization:** Strong subscription willingness  
 - **Traction:** Eager beta community  
 
-**Haven Mobile App is positioned for rapid, defensible growth in the expanding cybersecurity market.**
+✅ Haven Mobile App is positioned for rapid, defensible growth in the expanding cybersecurity market.
 """)
+
+st.write("---")
+
+# === ROADMAP ===
+st.subheader("🚀 Product Launch Roadmap (2025–2026)")
+
+st.markdown("""
+**Q2 2025 – Product Finalization**  
+- Complete phishing-detection MVP  
+- Internal security audits and compliance checks  
+- Refine mobile app UX for onboarding and detection flows
+
+**Q3 2025 – Launch Preparation**  
+- Launch closed beta with first 1,000 early adopters  
+- Start PR, cybersecurity community outreach, influencer marketing  
+- Partner with mobile security blogs and newsletters
+
+**Q4 2025 – Public Launch**  
+- Open public beta to early waitlist (~5,000 users)  
+- Implement aggressive performance marketing campaigns (targeted ads)  
+- Begin onboarding first partnerships (telcos, device manufacturers)
+
+**Q1 2026 – Expansion**  
+- Release Haven Pro (paid premium tier)  
+- Launch desktop companion app (browser plug-in security monitor)  
+- Expand marketing into Europe, India, and SEA (South East Asia)
+
+**Q2–Q4 2026 – Scaling**  
+- Reach 2M+ installs  
+- Establish B2B cybersecurity offerings (SMBs & small enterprises)  
+- Build Haven Partner Network (affiliates, resellers, OEMs)
+""")
+
+st.write("---")
+
+# === FINAL FOOTER ===
 st.markdown(
-    "<p style='text-align:center;color:#DDD;'>Crafted with ❤️ by the Haven Team</p>",
+    "<h6 style='text-align:center;color:#CCCCCC;'>Crafted with ❤️ by the Haven Team | Powered by Real User Insights</h6>",
     unsafe_allow_html=True
 )
